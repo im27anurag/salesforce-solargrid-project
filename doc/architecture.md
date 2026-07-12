@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="../assets/architecture-diagram.png" width="100%">
+</p>
+
 # Solution Architecture
 
 ## High-Level Business Flow

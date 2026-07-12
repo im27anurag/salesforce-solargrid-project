@@ -23,6 +23,10 @@ The organization required a centralized platform to:
 ## Solution Implemented
 
 The solution was implemented using Salesforce CRM technologies with a focus on automation and customer support optimization.
+<p align="center">
+  <img src="../assets/solution-overview.png" width="100%">
+</p>
+
 
 ### Modules Implemented
 - Sales Cloud
@@ -77,3 +81,6 @@ The solution was implemented using Salesforce CRM technologies with a focus on a
 ## Outcome
 
 The implementation improved operational visibility, streamlined customer support handling, automated repetitive tasks, and established a structured CRM workflow for managing solar sales and support operations.
+<p align="center">
+  <img src="../assets/core-features.png" width="100%">
+</p>
